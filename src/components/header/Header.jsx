@@ -23,18 +23,6 @@ const Header = () => {
                   <a href="#">Home</a>
                 </li>
                 <li>
-                  <a href="#">Make Extra Money</a>
-                </li>
-                <li>
-                  <a href="#">Work From Home</a>
-                </li>
-                <li>
-                  <a href="#">Start A Business</a>
-                </li>
-                <li>
-                  <a href="#">Money Management</a>
-                </li>
-                <li>
                   <a href="#">Blog Courses</a>
                   <i className="fa fa-caret-down" />
                   <ul>
@@ -48,6 +36,18 @@ const Header = () => {
                       <a href="#">How To Start A Blog</a>
                     </li>
                   </ul>
+                </li>
+                <li>
+                  <a href="#">Make Extra Money</a>
+                </li>
+                <li>
+                  <a href="#">Work From Home</a>
+                </li>
+                <li>
+                  <a href="#">Start A Business</a>
+                </li>
+                <li>
+                  <a href="#">Money Management</a>
                 </li>
               </ul>
             </nav>
