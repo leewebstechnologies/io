@@ -24,7 +24,9 @@
   cursor: pointer;
 }
 .main_nav {
-  float: right;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   margin-right: 45px;
 }
 .main_nav ul {

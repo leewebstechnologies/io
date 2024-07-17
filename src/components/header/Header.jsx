@@ -23,21 +23,6 @@ const Header = () => {
                   <a href="#">Home</a>
                 </li>
                 <li>
-                  <a href="#">Blog Courses</a>
-                  <i className="fa fa-caret-down" />
-                  <ul>
-                    <li>
-                      <a href="#">Affiliate Marketing</a>
-                    </li>
-                    <li>
-                      <a href="#">Making Sense Of Sponsored Posts</a>
-                    </li>
-                    <li>
-                      <a href="#">How To Start A Blog</a>
-                    </li>
-                  </ul>
-                </li>
-                <li>
                   <a href="#">Make Extra Money</a>
                 </li>
                 <li>
@@ -48,6 +33,21 @@ const Header = () => {
                 </li>
                 <li>
                   <a href="#">Money Management</a>
+                </li>
+                <li>
+                  <a href="#">Blog Courses</a>
+                  <i className="fa fa-caret-down" />
+                  <ul>
+                    <li>
+                      <a href="#">Affiliate Marketing</a>
+                    </li>
+                    <li>
+                      <a href="#">Sponsored Posts</a>
+                    </li>
+                    <li>
+                      <a href="#">How To Start A Blog</a>
+                    </li>
+                  </ul>
                 </li>
               </ul>
             </nav>
