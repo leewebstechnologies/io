@@ -46,7 +46,7 @@ const Header = () => {
                   </Link>
                 </li>
                 <li>
-                  <a href="#">Blog Courses</a>
+                  <a tabindex="0">Blog Courses</a>
                   <i className="fa fa-caret-down" />
                   <ul>
                     <li>
